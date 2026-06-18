@@ -2,8 +2,8 @@ import requests
 import time
 
 # ====== TELEGRAM SETTINGS ======
-BOT_TOKEN = "8990635970:AAEw7NVARFeX324AOWdNBxrJNpdG2TaQccA"
-CHAT_ID = "8156956504"
+BOT_TOKEN = "TELEGRAM_TOKEN"
+CHAT_ID = "CHAT_ID"
 
 # ====== AMAZON JOB PAGE ======
 URL = "https://www.jobsatamazon.co.uk/app#/jobSearch?query=Warehouse%20Operative"
