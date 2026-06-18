@@ -54,7 +54,7 @@ def main():
         except Exception as e:
             print("Error:", e)
 
-        time.sleep(300)  # every 5 minutes
+        time.sleep(1)  # every 1 Second
 
 
 if __name__ == "__main__":
